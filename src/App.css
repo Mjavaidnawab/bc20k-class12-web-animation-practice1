@@ -1,0 +1,19 @@
+.target {
+  background-color:  red;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+}
+  
+.target_image {
+ 
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  top: 200%;
+  left:250px;
+}
